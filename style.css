@@ -1,0 +1,35 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+.container{
+ width:90%;
+ margin: 0 auto;
+ margin:30px;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+.col{
+	width:50%;
+}
+.col1{
+	width:50%;
+	font-size:20px;
+}
+.img{
+	width:98%;
+}
+.icon{
+	color:yellow;
+	flex-wrap:wrap;
+	font-size:50px;
+}
+.flex{
+	flex-wrap:wrap;
+}
+span{
+	color:black;
+}
